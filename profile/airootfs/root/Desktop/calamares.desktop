@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Install Krono Linux
+GenericName=System Installer
+Comment=Install Krono Linux to your hard drive
+Exec=sudo calamares
+Icon=calamares
+Terminal=false
+Categories=System;
+StartupNotify=true
